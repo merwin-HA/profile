@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    background-color: yellow;   
+}
+nav{
+    background-color: black;       
+    width: 100%;
+    overflow: auto;           
+}
+nav ul{
+    font-size: 30px;
+    text-decoration: none;
+    padding: 0;
+    margin: 0 0 0 150px;
+    list-style: none;         
+}
+nav li{  
+    float: left;
+    padding: 20px 10px 20px 10px;
+}
+nav a{
+    padding: 40px 30px;
+    color: yellow;
+    text-decoration: none;
+    display: block;
+    font-weight: bolder;
+}          
+.logo{   
+    height: 120px;
+    width: 120px;    
+    border-radius: 100%;
+    position: absolute;
+    margin:10px 0  0 20px;
+            
+}
+nav a:hover{
+    background: #ff00f1;
+    border-radius: 15%;
+}
+div{
+    background-color: yellow;
+    padding-bottom: 50px;
+}
+.up{
+    position: absolute;
+    margin: 20px 0 0 700px;
+    height: 300px;
+    width: 300px;
+}
+div h1{
+    margin: 0 300px 0 150px;
+    font-size: 80px;
+    padding: 30px;
+}
+.p{
+    margin: 0 780px 0 180px;
+    font-size: 40px;
+    text-align: left;
+    padding: 0 0 50px 0;
+}
+.pp{
+    pasition: absolute;
+    float: left;
+    height: 340px;
+    width: 430px;
+    padding: 0 0 50px 0;
+    margin: 20px 0 0 65px;
+    
+}
+.intro{
+    margin: 0px 100px;
+    font-size: 45px;
+    padding: 70px 0 100px;
+}
+.c{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin: 20px 0 0 180px;
+}
+.gmail{
+    padding: 50px 0 0 360px;
+    font-size: 40px;
+}
+.name{
+    padding: 50px 0 0 360px;
+    font-size: 40px;
+}
+.num{
+    padding: 50px 0 0 360px;
+    font-size: 40px;
+}
+.cal{
+    float: left;
+    position: absolute;
+    margin: 20px 0 0 160px;
+    border-radius: 30%;
+}
+.cel{
+    float: left;
+    position: absolute;
+    margin: 110px 0 0 310px;
+    border-radius: 30%;
+}
+.col{
+    float: left;
+    position: absolute;
+    margin: 210px 0 0 200px;
+    border-radius: 30%;
+}
+.ml{
+   float: left;
+   position: absolute;
+   margin: 430px 0 0 200px; 
+}
+.anime{
+    float: left;
+    position: absolute;
+    margin: 730px 0 0 180px;
+}
+.hab{
+    margin: 100px 0 0 600px;
+    font-size: 40px;
+}
+.heb{
+    margin: 300px 0 0 600px;
+    font-size: 40px;
+}
+.hob{
+    margin: 280px 0 0 600px;
+    font-size: 40px;
+}
+.map{
+    margin: 100px 0 0 200px;
+}
